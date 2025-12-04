@@ -1,7 +1,7 @@
 # Muhammad Asyrafi Hidayatullah
 
 ## About Me
-Hello! I'm Muhammad Asyrafi Hidayatullah, a dedicated computer science student with a great passion for technology and software development. Currently pursuing my studies while exploring the vast world of programming—from web development to software engineering and beyond.
+Hello! I'm Muhammad Asyrafi Hidayatullah, a dedicated computer science student at **Universitas Islam Negeri Sjech M. Djamil Djambek Bukittinggi** with a great passion for technology and software development. Currently pursuing my studies while exploring the vast world of programming—from web development to software engineering and beyond.
 
 I want to be honest: I'm not yet great at writing code entirely on my own. I often use AI as a tool to help me understand, learn, and find solutions. For me, that's not a weakness—it's part of the learning process. I've had a laptop since middle school, but I didn't dive deep into programming back then. Now, with my understanding continuously growing, I keep finding my own path to become better day by day.
 
