@@ -1,35 +1,119 @@
+<div align="center">
+
 # Muhammad Asyrafi Hidayatullah
 
-## About Me
-Hello! I'm Muhammad Asyrafi Hidayatullah, a dedicated computer science student at **Universitas Islam Negeri Sjech M. Djamil Djambek Bukittinggi** with a great passion for technology and software development. Currently pursuing my studies while exploring the vast world of programming—from web development to software engineering and beyond.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Tool+Creator;Building+Cross-Platform+Solutions;Linux+Enthusiast+%7C+Open+Source+Advocate" alt="Typing SVG" />
 
-I want to be honest: I'm not yet great at writing code entirely on my own. I often use AI as a tool to help me understand, learn, and find solutions. For me, that's not a weakness—it's part of the learning process. I've had a laptop since middle school, but I didn't dive deep into programming back then. Now, with my understanding continuously growing, I keep finding my own path to become better day by day.
+**Computer Science Student** • Semester 2  
+UIN Sjech M. Djamil Djambek Bukittinggi
 
-I'm on a journey of discovery, learning various technologies and paradigms as I pursue my dream of becoming a computer scientist capable of creating meaningful and impactful solutions.
+```yaml
+focus: ["CLI Tools", "Cross-Platform Apps", "DevOps Automation"]
+learning: ["Docker & Kubernetes", "System Programming", "Mobile Development"]
+environment: { os: "Linux", editor: "Neovim", shell: "zsh" }
+philosophy: "Code with purpose, build with passion"
+```
 
-## Current Journey
-- **Full Stack Development:** Building complete web applications from front-end to back-end
-- **Software Engineering:** Exploring desktop applications and system-level programming
-- **UI/UX Design:** Crafting intuitive and user-centered digital experiences
-- **Continuous Learning:** Embracing new technologies and discovering where my true passion lies
+[![wakatime](https://wakatime.com/badge/user/YOUR_USER_ID.svg?style=for-the-badge)](https://wakatime.com/@YOUR_USER_ID)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=58a6ff)
 
-## Technical Arsenal
-- **Web Technologies:** Modern frameworks and libraries for full stack development
-- **Multiple Programming Paradigms:** Object-oriented, functional, and procedural programming
-- **Database Systems:** Relational database design and management
-- **Development Tools:** Version control, containerization, and modern IDEs
-- **Design Tools:** Professional UI/UX design platforms
+</div>
 
-## Hobbies
-- Reading technical books and documentation
-- Exploring emerging technologies
-- Designing user interfaces
-- Solving complex problems through code
+##
 
-## My Vision
-My dream is to become a highly skilled computer scientist—someone who can build anything from elegant web platforms to powerful software applications. I may still be finding my exact path, but I'm driven by immense curiosity and commitment to master the art of creating technology that matters.
+## 💻 Tech Stack
 
-> *"The journey of a thousand programs begins with a single line of code. I may not know exactly where I'm headed yet, but I know I'm destined to build great things."*  
-> **— Asyrafi**
+<div align="center">
 
----
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+<br>Python
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
+<br>Java
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
+<br>C++
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+<br>JavaScript
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+<br>React
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node.js" width="55" height="55" />
+<br>Node.js
+</td>
+</tr>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+<br>MySQL
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+<br>Docker
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=neovim" width="45" height="45" alt="Neovim" />
+<br>Neovim
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="55" height="55" />
+<br>Git
+</td>
+</tr>
+</table>
+
+</div>
+
+##
+
+## ⚡ Weekly Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+##
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+##
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+
+###
+
+***Building impactful tools · One line at a time***
+
+</div>
