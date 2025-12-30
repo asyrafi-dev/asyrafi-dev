@@ -2,15 +2,9 @@
 
 # **MUHAMMAD ASYRAFI HIDAYATULLAH**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Tool+Creator;Building+Cross-Platform+Solutions;Linux+%2B+Neovim+%2B+Open+Source;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Developer;Tool+Creator+%26+Open+Source;Building+Impactful+Solutions" alt="Typing SVG" />
 
-**Computer Science Student, Semester 2** · *UIN Sjech M. Djamil Djambek Bukittinggi*
-
-```yaml
-focus: ["CLI Tools", "Cross-Platform Apps", "DevOps"]
-learning: ["Docker & Kubernetes", "System Programming"]
-environment: { os: "Linux", editor: "Neovim", shell: "zsh" }
-```
+**Computer Science Student** · *UIN Sjech M. Djamil Djambek Bukittinggi*
 
 <br>
 
@@ -19,119 +13,63 @@ environment: { os: "Linux", editor: "Neovim", shell: "zsh" }
 ![Followers](https://img.shields.io/github/followers/Asyrafi-dev?style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117)
 ![Stars](https://img.shields.io/github/stars/Asyrafi-dev?style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117)
 
-<br>
-
 </div>
 
-## 
+<br>
+
+```yaml
+about:
+  location: Indonesia (UTC+07:00)
+  focus: [CLI Tools, Cross-Platform Apps, DevOps]
+  learning: [Docker, Kubernetes, System Programming]
+  setup: { os: Linux, editor: Neovim, shell: zsh }
+```
 
 <div align="center">
-
-### **💻 TECH STACK**
-
-**`Languages`** **·** **`Frameworks`** **·** **`Databases`** **·** **`DevOps & Tools`**
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="80">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
-<br><sub><b>Python</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
-<br><sub><b>Java</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
-<br><sub><b>C++</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
-<br><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
-<br><sub><b>React</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br><sub><b>Node.js</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br><sub><b>MongoDB</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
-<br><sub><b>MySQL</sub>
-</td>
-<td align="center" width="80">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
-<br><sub><b>Docker</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br><sub><b>Linux</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="Neovim" />
-<br><sub><b>Neovim</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="Git" />
-<br><sub><b>Git</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
 
 ##
 
-<div align="center">
+### 💻 TECH STACK
 
-### **⚡ WEEKLY CODING ACTIVITY**
+**`Languages`**
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**`Frameworks & Tools`**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+##
+
+### ⚡ WEEKLY CODING ACTIVITY
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Asyrafi&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&layout=compact&custom_title=📊+Coding+Stats" />
-
-</div>
-
 ##
 
-<div align="center">
+### 🔗 CONNECT WITH ME
 
-### **🌐 CONNECT**
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
-</a>
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white" height="32"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
-</a>
-<a href="https://github.com/Asyrafi-dev">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/>
-</a>
-
-<br><br>
-
-**💭 "Building impactful tools · One line at a time"**
-
-*Open to collaborations and interesting projects*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-asyrafi-hidayatullah)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asyrafi-devfolio.edgeone.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asyrafi12_@outlook.com)
 
 <br>
+
+---
+
+<sub>💭 "Building impactful tools · One line at a time"</sub>
+
+<sub>Open to collaborations and interesting projects</sub>
 
 </div>
