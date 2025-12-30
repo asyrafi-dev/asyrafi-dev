@@ -14,8 +14,10 @@ currently_learning: ["Docker & Kubernetes", "System Programming"]
 philosophy: "Code with purpose, build with passion"
 ```
 
-[![WakaTime](https://wakatime.com/badge/user/YOUR_USER_ID.svg?style=flat-square)](https://wakatime.com/@YOUR_USER_ID)
-![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=0891b2)
+[![WakaTime](https://wakatime.com/badge/user/b8f96c15-2200-4a71-8b13-bbcfcd693052.svg?style=for-the-badge&color=58a6ff)](https://wakatime.com/@Asyrafi)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Asyrafi-dev.Asyrafi-dev&labelColor=0d1117&countColor=58a6ff&style=for-the-badge&labelStyle=upper)
+![GitHub followers](https://img.shields.io/github/followers/Asyrafi-dev?style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117)
+![GitHub stars](https://img.shields.io/github/stars/Asyrafi-dev?style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117)
 
 </div>
 
