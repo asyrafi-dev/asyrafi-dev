@@ -45,6 +45,7 @@ about:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -54,17 +55,6 @@ about:
 ### ⚡ WEEKLY CODING ACTIVITY
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 20 December 2025 - To: 29 December 2025
-
-TypeScript       15 hrs 15 mins  ███████████░░░░░░░░░░░░░░   44.42 %
-Markdown         3 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-PHP              3 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-Python           3 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-Other            2 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-```
-
 <!--END_SECTION:waka-->
 
 ##
@@ -72,7 +62,7 @@ Other            2 hrs 55 mins   ██░░░░░░░░░░░░░�
 ### 🔗 CONNECT WITH ME
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-asyrafi-hidayatullah)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asyrafi-devfolio.edgeone.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://asyrafi-devfolio.edgeone.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asyrafi12_@outlook.com)
 
 <br>
