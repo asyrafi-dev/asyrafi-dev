@@ -54,6 +54,17 @@ about:
 ### ⚡ WEEKLY CODING ACTIVITY
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 20 December 2025 - To: 29 December 2025
+
+TypeScript       15 hrs 15 mins  ███████████░░░░░░░░░░░░░░   44.42 %
+Markdown         3 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+PHP              3 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Python           3 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+Other            2 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+```
+
 <!--END_SECTION:waka-->
 
 ##
