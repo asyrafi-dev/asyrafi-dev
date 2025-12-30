@@ -2,7 +2,7 @@
 
 ## Muhammad Asyrafi Hidayatullah
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Developer+%7C+Tool+Creator+%7C+Open+Source" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Developer;Tool+Creator;Open+Source+Enthusiast" alt="Typing SVG" />
 
 **Computer Science Student** · *UIN Sjech M. Djamil Djambek Bukittinggi*
 
@@ -59,12 +59,15 @@ Other            2 hrs 55 mins   ██░░░░░░░░░░░░░�
 
 ##
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-asyrafi-hidayatullah)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=windowsterminal&logoColor=white)](https://asyrafi-devfolio.edgeone.dev)&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asyrafi.dev@outlook.com)
+<a href="https://linkedin.com/in/muhammad-asyrafi-hidayatullah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://asyrafi-devfolio.edgeone.dev"><img src="https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=safari&logoColor=white" height="28"/></a>&nbsp;
+<a href="mailto:asyrafi.dev@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
 
 <br>
 
-<sub>💭 *"Building impactful tools · One line at a time"*</sub>
+*"Building impactful tools · One line at a time"*
+
+<sub>Open to collaborations and interesting projects</sub>
 
 </div>
+
