@@ -34,12 +34,14 @@ about:
 **`Languages`**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **`Frameworks & Tools`**
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -55,17 +57,6 @@ about:
 ### ⚡ WEEKLY CODING ACTIVITY
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 20 December 2025 - To: 29 December 2025
-
-TypeScript       15 hrs 15 mins  ███████████░░░░░░░░░░░░░░   44.42 %
-Markdown         3 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-PHP              3 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-Python           3 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-Other            2 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-```
-
 <!--END_SECTION:waka-->
 
 ##
@@ -73,8 +64,8 @@ Other            2 hrs 55 mins   ██░░░░░░░░░░░░░�
 ### 🔗 CONNECT WITH ME
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-asyrafi-hidayatullah)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://asyrafi-devfolio.edgeone.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asyrafi12_@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://asyrafi-devfolio.edgeone.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asyrafi.dev@outlook.com)
 
 <br>
 
