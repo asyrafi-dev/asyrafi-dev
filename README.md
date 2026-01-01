@@ -6,13 +6,6 @@
 
 **Computer Science Student** · *UIN Sjech M. Djamil Djambek Bukittinggi*
 
-<br>
-
-[![WakaTime](https://wakatime.com/badge/user/b8f96c15-2200-4a71-8b13-bbcfcd693052.svg?style=flat-square)](https://wakatime.com/@Asyrafi)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Asyrafi-dev.Asyrafi-dev&labelColor=0d1117&countColor=58a6ff&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Asyrafi-dev?style=flat-square&logo=github&labelColor=0d1117&color=58a6ff)
-![Stars](https://img.shields.io/github/stars/Asyrafi-dev?style=flat-square&logo=github&labelColor=0d1117&color=58a6ff)
-
 </div>
 
 ---
@@ -26,28 +19,6 @@
 <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,mongodb,mysql,docker&theme=dark" alt="Frameworks" />
 
 <img src="https://skillicons.dev/icons?i=linux,neovim,git,nginx,vscode,bash&theme=dark" alt="Tools" />
-
-</div>
-
----
-
-<div align="center">
-
-**Weekly Coding Activity**
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 20 December 2025 - To: 31 December 2025
-
-TypeScript       15 hrs 15 mins  ████████░░░░░░░░░░░░░░░░░   32.19 %
-Markdown         6 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
-Bash             6 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
-PHP              3 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Python           3 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-```
-
-<!--END_SECTION:waka-->
 
 </div>
 
